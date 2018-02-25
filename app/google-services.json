@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "766230614674",
+    "firebase_url": "https://photosharing-70e79.firebaseio.com",
+    "project_id": "photosharing-70e79",
+    "storage_bucket": "photosharing-70e79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766230614674:android:895e97d688c53a5e",
+        "android_client_info": {
+          "package_name": "ai.niki.task.photosharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766230614674-4nl19crrm3vn1kpu69s8beuafjb6l0o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.niki.task.photosharing",
+            "certificate_hash": "b28b0a14c96cac23cbed183836ac03c19e84b8a2"
+          }
+        },
+        {
+          "client_id": "766230614674-u4d3kiee8orfg07lcapoldgajou7b0um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0TYsoniUXDd6pH_IbDOAuNM1nXMhpfk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766230614674-u4d3kiee8orfg07lcapoldgajou7b0um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
